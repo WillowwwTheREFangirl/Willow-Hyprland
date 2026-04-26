@@ -18,7 +18,7 @@ SUPER + H (Windows + H) to open keybinding hints.
 
 Use this script to install Hyprland on an Arch-based system:
 
-```text
+```shell
 
 git clone --depth=1 https://github.com/WillowwwTheREFangirl/Willow-Hyprland.git
 cd ~/Arch-Hyprland

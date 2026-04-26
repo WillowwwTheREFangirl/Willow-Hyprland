@@ -11,11 +11,17 @@ This script does not include package uninstallation, as some packages may alread
 Keybinding
 
 SUPER + H (Windows + H) to open keybinding hints.
-Installation
+
+
+### Installation
+
+
 Use this script to install Hyprland on an Arch-based system:
 
-'''bash
+```text
 
+
+.
 git clone --depth=1 https://github.com/WillowwwTheREFangirl/Willow-Hyprland.git
 cd ~/Arch-Hyprland
 chmod +x install.sh

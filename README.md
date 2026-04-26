@@ -20,8 +20,6 @@ Use this script to install Hyprland on an Arch-based system:
 
 ```text
 
-
-.
 git clone --depth=1 https://github.com/WillowwwTheREFangirl/Willow-Hyprland.git
 cd ~/Arch-Hyprland
 chmod +x install.sh
